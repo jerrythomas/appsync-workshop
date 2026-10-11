@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/ui-react": "^0.2.34",
+    "@aws-amplify/ui-react": "^6.15.7",
     "@nivo/core": "^0.67.0",
     "@nivo/line": "^0.67.0",
-    "aws-amplify": "^3.3.14",
+    "aws-amplify": "^6.22.1",
     "d3-time-format": "^3.0.0",
     "react": "^17.0.1",
     "react-datepicker": "^3.4.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "5.0.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

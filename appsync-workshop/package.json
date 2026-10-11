@@ -10,9 +10,9 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@aws-cdk/assert": "1.86.0",
+    "@aws-cdk/assert": "1.203.0",
     "aws-cdk": "1.86.0",
-    "jest": "^26.4.2"
+    "jest": "^30.5.2"
   },
   "dependencies": {
     "@aws-cdk/aws-appsync": "1.86.0",
